@@ -17,4 +17,7 @@ class EarthquakeLoader(context: Context,url: String) : AsyncTaskLoader<List<Quak
 
     }
 
+
+
+
 }
